@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.co.uk
-DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,llnwd.net
 #IP-CIDR,13.32.0.0/15,no-resolve
 #IP-CIDR,13.35.0.0/17,no-resolve
