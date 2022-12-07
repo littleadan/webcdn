@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,hinet.net
 # 台湾漫画
 DOMAIN-SUFFIX,tw.manhuagui.com
 DOMAIN-SUFFIX,i.hamreus.com
+
+# openai
+DOMAIN-SUFFIX,chat.openai.com
