@@ -7,7 +7,7 @@
 # DOMAIN-SUFFIX: 12
 # TOTAL: 14
 DOMAIN,ai.cn
-DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,files.oaiusercontent.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
